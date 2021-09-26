@@ -24,7 +24,7 @@ elif random_number == 8:
 elif random_number == 9:
   answer = "very doubtful."
 elif random_number == 10:
-  answer = "no you rat."
+  answer = "no, sorry :("
 elif random_number == 11:
   answer = "i hope so <3."
 elif random_number == 12:
